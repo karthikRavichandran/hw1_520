@@ -1,0 +1,59 @@
+commit 76f93f8c7204e9abe3f0dbc65ca1a552a78461dd
+Merge: 06df6d1 36d9f0d
+Author: aaronsun1030 <57044175+aaronsun1030@users.noreply.github.com>
+Date:   Wed Sep 27 12:40:18 2023 -0400
+
+    Merge pull request #2 from aaronsun1030/Code-Modification
+    
+    Code Modification part
+
+commit 36d9f0daf297508a75dd3aa0c385d5b55fb4a356
+Author: Karthik Ravichandran <karthikravi@Karthiks-MacBook-Pro.local>
+Date:   Wed Sep 27 09:29:30 2023 -0400
+
+    brought jdoc warnings to 2 and those two warnings has no solution in this version of ant
+
+commit 73a46f01456e85657de91bfd1ec973502d58f2d6
+Author: Karthik Ravichandran <karthikravi@Karthiks-MacBook-Pro.local>
+Date:   Wed Sep 27 08:54:36 2023 -0400
+
+    fixed jdoc error
+
+commit 1cb5c2d13dce1cb8732922874362651dc24ca9cf
+Author: Karthik Ravichandran <karthikravi@1x-nat-vl931-172-30-149-140.wireless.umass.edu>
+Date:   Tue Sep 26 15:21:01 2023 -0400
+
+    worked on the suggestions
+
+commit 3ddb8591e20a971cd28d3d29b257a2019c06f894
+Author: Karthik Ravichandran <karthikravi@Karthiks-MacBook-Pro.local>
+Date:   Sat Sep 23 22:09:02 2023 -0400
+
+    Code Modification
+
+commit 06df6d17fcb3a1fa392f91a57da2029cf26234fb
+Merge: 7a41b46 72e9b82
+Author: Karthik Ravichandran <tkgravikarthik@gmail.com>
+Date:   Sat Sep 23 17:21:10 2023 -0400
+
+    Merge pull request #1 from aaronsun1030/feature/javadocs
+    
+    Feature/javadocs
+
+commit 72e9b8250fe56a178bbc06c5efa77b43d6beb3f6
+Author: Aaron Sun <aaronsun2000@berkeley.edu>
+Date:   Fri Sep 22 13:13:43 2023 -0400
+
+    fixed javadoc warnings and generated javadoc
+
+commit d01a7a8517238cdb50c258dfe9efaed723a5f947
+Author: Aaron Sun <aaronsun2000@berkeley.edu>
+Date:   Fri Sep 22 13:07:08 2023 -0400
+
+    added javadocs to code
+
+commit 7a41b46f42e8554ae071512d3d2ee46865ef8e63
+Author: aaronsun1030 <57044175+aaronsun1030@users.noreply.github.com>
+Date:   Thu Sep 21 20:20:12 2023 -0400
+
+    initial commit
